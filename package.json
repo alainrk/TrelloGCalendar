@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "debug": "^4.0.1",
-    "googleapis": "^34.0.0",
+    "googleapis": "^59.0.0",
     "moment": "^2.22.2",
     "readline-sync": "^1.4.9"
   }
